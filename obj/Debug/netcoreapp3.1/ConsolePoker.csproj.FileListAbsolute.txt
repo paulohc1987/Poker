@@ -1,0 +1,13 @@
+C:\Users\higor\source\repos\ConsolePoker\obj\Debug\netcoreapp3.1\ConsolePoker.csprojAssemblyReference.cache
+C:\Users\higor\source\repos\ConsolePoker\obj\Debug\netcoreapp3.1\ConsolePoker.AssemblyInfoInputs.cache
+C:\Users\higor\source\repos\ConsolePoker\obj\Debug\netcoreapp3.1\ConsolePoker.AssemblyInfo.cs
+C:\Users\higor\source\repos\ConsolePoker\obj\Debug\netcoreapp3.1\ConsolePoker.csproj.CoreCompileInputs.cache
+C:\Users\higor\source\repos\ConsolePoker\bin\Debug\netcoreapp3.1\ConsolePoker.exe
+C:\Users\higor\source\repos\ConsolePoker\bin\Debug\netcoreapp3.1\ConsolePoker.deps.json
+C:\Users\higor\source\repos\ConsolePoker\bin\Debug\netcoreapp3.1\ConsolePoker.runtimeconfig.json
+C:\Users\higor\source\repos\ConsolePoker\bin\Debug\netcoreapp3.1\ConsolePoker.runtimeconfig.dev.json
+C:\Users\higor\source\repos\ConsolePoker\bin\Debug\netcoreapp3.1\ConsolePoker.dll
+C:\Users\higor\source\repos\ConsolePoker\bin\Debug\netcoreapp3.1\ConsolePoker.pdb
+C:\Users\higor\source\repos\ConsolePoker\obj\Debug\netcoreapp3.1\ConsolePoker.dll
+C:\Users\higor\source\repos\ConsolePoker\obj\Debug\netcoreapp3.1\ConsolePoker.pdb
+C:\Users\higor\source\repos\ConsolePoker\obj\Debug\netcoreapp3.1\ConsolePoker.genruntimeconfig.cache
